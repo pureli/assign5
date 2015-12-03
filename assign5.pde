@@ -74,7 +74,7 @@ void setup(){
   flameImgs[3] = loadImage("img/flame4.png");
   flameImgs[4] = loadImage("img/flame5.png");
   shootImg = loadImage("img/shoot.png");
-  ScoreText = createFont("Arial",20);
+  ScoreText = createFont("Arial",20); 
   
   gameState = 0;
 
